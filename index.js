@@ -1,6 +1,7 @@
 const TeleBot = require('telebot');
 const bot = new TeleBot(process.env.TELEGRAM_BOT_TOKEN);
 const packageInfo = require('./package.json');
+const express = require('express');
 
 const app = express();
 
