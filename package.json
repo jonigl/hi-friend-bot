@@ -1,0 +1,22 @@
+{
+  "name": "hi-friend-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonigl/hi-friend-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonigl/hi-friend-bot/issues"
+  },
+  "homepage": "https://github.com/jonigl/hi-friend-bot#readme",
+  "dependencies": {
+    "telebot": "^1.2.6"
+  }
+}
